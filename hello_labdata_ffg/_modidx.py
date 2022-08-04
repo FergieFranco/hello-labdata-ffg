@@ -26,4 +26,4 @@ d = { 'settings': { 'audience': 'Developers',
                 'tst_flags': 'notest',
                 'user': 'FergieFranco',
                 'version': '0.0.1'},
-  'syms': { 'hello_labdata_ffg\\greetings': { 'hello_labdata_ffg\\greetings.hello': 'https://FergieFranco.github.io/hello_labdata_ffg/hello_labdata_ffg\\greetings.html#hello'}}}
+  'syms': {'hello_labdata_ffg.greetings': {'hello_labdata_ffg.greetings.hello': 'https://FergieFranco.github.io/hello_labdata_ffg/greetings.html#hello'}}}
