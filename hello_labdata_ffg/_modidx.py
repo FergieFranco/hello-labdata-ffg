@@ -25,5 +25,6 @@ d = { 'settings': { 'audience': 'Developers',
                 'title': 'hello_labdata_ffg',
                 'tst_flags': 'notest',
                 'user': 'FergieFranco',
-                'version': '0.0.1'},
-  'syms': {'hello_labdata_ffg.greetings': {'hello_labdata_ffg.greetings.hello': 'https://FergieFranco.github.io/hello_labdata_ffg/greetings.html#hello'}}}
+                'version': '0.0.3'},
+  'syms': { 'hello_labdata_ffg.greetings': {'hello_labdata_ffg.greetings.hello': 'https://FergieFranco.github.io/hello_labdata_ffg/greetings.html#hello'},
+            'hello_labdata_ffg.jokes': { 'hello_labdata_ffg.jokes.qual_time_nao_tem_mundial': 'https://FergieFranco.github.io/hello_labdata_ffg/jokes.html#qual_time_nao_tem_mundial'}}}
